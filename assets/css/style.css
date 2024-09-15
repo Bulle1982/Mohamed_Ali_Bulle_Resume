@@ -139,6 +139,10 @@ header {
     margin: 0;
 }
 
+.no-gap {
+    margin-left: 0;
+    margin-right: 0;
+}
 .menuitem {
     height: 120px;
     text-align: center;
