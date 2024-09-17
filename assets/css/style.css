@@ -14,6 +14,10 @@
     background-color: #3c9f70;
 }
 
+.bg-color-project-history {
+    background-color: #b94d41;
+}
+
 .bg-color-contact {
     background-color: #fff;
 }
@@ -38,7 +42,7 @@
 }
 
 .ui-menu-color-interests {
-    background-color: #e74c3c;
+    background-color: #b94d41;
 }
 
 
@@ -348,6 +352,14 @@ footer {
     margin-bottom: 30px;
 }
 
+.project-links a {
+    text-decoration: none;
+    color: #fafafa;
+}
+
+.project-links a:hover {
+    color: #453e31;
+}
 /* ----------------------------------------Contact Form */
 
 .contact-heading {
